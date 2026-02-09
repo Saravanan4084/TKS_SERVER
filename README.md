@@ -52,7 +52,7 @@ tmux new -s 43210
 ### 6. Download server files
 
 ```bash
-git clone https://github.com/Saravanan010104/TKS_SERVER.git
+git clone https://github.com/Saravanan4084/TKS_SERVER.git
 cd TKS_SERVER
 ```
 
