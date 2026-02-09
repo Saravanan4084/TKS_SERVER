@@ -1,4 +1,15 @@
 ## <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/03c9a69e-f501-47a6-871e-5ed86a057432" /> Link : https://discord.gg/X4GEUPDcg
+
+## Credits
+
+This project is based on the open-source work from:
+
+- **Bombsquad Ballistica Modded Server**
+  https://github.com/imayushsaini/Bombsquad-Ballistica-Modded-Server
+
+The original codebase was created by **imayushsaini**.  
+This repository contains **modifications and custom changes** made by me.
+
 🚀 MODIFIED Bombsquad-Ballistica-Modded-Server
 
 Modded server scripts to host a Ballistica (BombSquad) server.  
