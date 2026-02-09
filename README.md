@@ -1,4 +1,4 @@
-## <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/03c9a69e-f501-47a6-871e-5ed86a057432" />
+## <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/03c9a69e-f501-47a6-871e-5ed86a057432" /> Link : https://discord.gg/X4GEUPDcg
 🚀 MODIFIED Bombsquad-Ballistica-Modded-Server
 
 Modded server scripts to host a Ballistica (BombSquad) server.  
