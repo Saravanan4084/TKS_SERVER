@@ -95,14 +95,10 @@ class textonmap:
             loop=True,
         )
         
-        # Second text node with special characters (configured via setting.json)
-        owner_text = setti.get('textonmap', {}).get(
-            'owner_line',
-            u'\ue043[\U0001F451] OWNER : : G.T\n\ue048[\U0001F6E0] MANAGED BY : TEAM BOTS',
-        )
+        # Second text node with special characters
         node = bs.newnode('text',
                           attrs={
-                              'text': owner_text,
+                              'text': u'\ue043[\U0001F451] OWNER : : G.T\n\ue048[\U0001F6E0] MANAGED BY : TEAM BOTS',
                               'flatness': 1.0,
                               'h_align': 'left',
                               'v_attach': 'bottom',
