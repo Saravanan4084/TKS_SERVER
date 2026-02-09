@@ -1,0 +1,189 @@
+{
+    "Anti-IdRevealer": false,
+    "ChatCommands": {
+        "BrodcastCommand": true
+    },
+    "HostDeviceName": "v1.4",
+    "HostName": "KLAUS",
+    "KickVoteMsgType": "chat",
+    "ScoreScreenAnnouncement": {
+        "enable": true,
+        "msg": [
+            "Type /coinhelp to see coins commands.",
+            "Type /claim to get daily claim",
+            "downlaod new mods from discord"
+        ]
+    },
+    "ShowKickVoteStarterName": true,
+    "StumbledScoreScreen": true,
+    "WarnCooldownMinutes": 30,
+    "afk_remover": {
+        "enable": false,
+        "ingame_idle_time_in_secs": 60,
+        "kick_idle_from_lobby": false,
+        "lobby_idle_time_in_secs": 10
+    },
+    "afterWarnKickMsg": "Enough warnings, Goodbye have a nice day :)",
+    "allowInGameChat": true,
+    "allowTeamChat": true,
+    "allowVotes": true,
+    "autoNightMode": {
+        "enable": false,
+        "endTime": "06:00",
+        "fireflies": false,
+        "fireflies_random_color": false,
+        "startTime": "18:30"
+    },
+    "autoTeamBalance": true,
+    "ballistica_web": {
+        "enable": false,
+        "server_password": "YOUR-PASSWORD"
+    },
+    "character_chooser": {
+        "enable": true
+    },
+    "colorful_explosions": {
+        "enable": false
+    },
+    "colorfullMap": false,
+    "contributeData": true,
+    "coopModeWithLessPlayers": {
+        "enable": false,
+        "minPlayerToExitCoop": 3
+    },
+    "custom_characters": {
+        "enable": true
+    },
+    "discordWebHook": {
+        "enable": false,
+        "webhookURL": ""
+    },
+    "discordbot": {
+        "enable": false,
+        "liveChat": true,
+        "liveStatsChannelID": 0,
+        "logsChannelID": 0,
+        "directCmdChannelID": 0,
+        "roleCmdChannelIds": [0],
+        "gameInfoChannelID": 0,
+        "complaintsChannelID": 0,
+        "complaintStaffRoleID": 0,
+        "chatlistChannelID": 0,
+        "token": "YOUR-BOT-TOKEN"
+    },
+    "elPatronPowerups": {
+        "Quantity": {
+            "Curse": 2,
+            "Fire Bombs": 2,
+            "Fly Bombs": 2,
+            "Goodbye": 2,
+            "Healing Damage": 2,
+            "Health": 2,
+            "Ice Bombs": 2,
+            "Ice Man": 0,
+            "Impact Bombs": 2,
+            "Impairment Bombs": 2,
+            "Mine Bombs": 2,
+            "Punch": 0,
+            "Shield": 0,
+            "Speed": 0,
+            "Sticky Bombs": 2,
+            "Tank Shield": 0,
+            "Triple": 3
+        },
+        "enable": true,
+        "settings": {
+            "Healing Damage PTG": 72,
+            "Powers Gravity": true,
+            "Powerup Name": false,
+            "Powerup Scale": 1,
+            "Powerup Style": "Auto",
+            "Powerup Time": true,
+            "Powerup With Shield": false,
+            "Powerups": {
+                "Curse": 2,
+                "Fire Bombs": 2,
+                "Fly Bombs": 2,
+                "Goodbye": 2,
+                "Healing Damage": 2,
+                "Health": 2,
+                "Ice Bombs": 2,
+                "Ice Man": 0,
+                "Impact Bombs": 2,
+                "Impairment Bombs": 2,
+                "Mine Bombs": 2,
+                "Punch": 0,
+                "Shield": 0,
+                "Speed": 0,
+                "Sticky Bombs": 2,
+                "Tank Shield": 0,
+                "Triple": 3
+            },
+            "Tank Shield PTG": 96
+        }
+    },
+    "enableHitTexts": false,
+    "enableTagAnimation": true,
+    "enableTop5effects": true,
+    "enableeffects": true,
+    "enablehptag": true,
+    "enablerank": true,
+    "enablestats": true,
+    "enabletags": true,
+    "firstTimeJoinMsg": "Welcome to the server,we r saving all your account details and chats",
+    "leaderboard": {
+        "barsBehindName": true,
+        "enable": true
+    },
+    "maxAccountPerIP": 3,
+    "maxPlayersPerDevice": 2,
+    "maxWarnCount": 2,
+    "mikirogQuickTurn": {
+        "enable": false
+    },
+    "minAgeToChatInHours": 78,
+    "minAgeToJoinInHours": 24,
+    "newResultBoard": true,
+    "playermod": {
+        "default_bomb": "normal",
+        "default_bomb_count": 2,
+        "default_boxing_gloves": true,
+        "default_shield": false
+    },
+    "playlists": {
+        "dm": 569392,
+        "elim": 412172,
+        "epic": 569393,
+        "ffa": 412175,
+        "ffasmash": 412179,
+        "smash": 412151,
+        "soccer": 412160,
+        "team": 12345,
+        "v": 569391
+    },
+    "regularWelcomeMsg": "Welcome Back",
+    "sameCharacterForTeam": false,
+    "statsResetAfterDays": 45,
+    "textonmap": {
+        "bottom left watermark": "\n____________________________________\n\n\n____________________________________\n",
+        "center highlights": {
+            "color": [
+                1,
+                0,
+                0
+            ],
+            "msg": [
+                "type end to start end vote",
+                "start msg with prefix .(dot) to send in game popup msg",
+                "start msg with prefix ,(comma) to send msg to teammates",
+                "                  "
+            ],
+            "randomColor": true
+        },
+        "top watermark": "TAMIL AND KERALA EPIC SERVER",
+        "owner_line": "\ue043[\U0001F451] OWNER : : G.T\n\ue048[\U0001F6E0] MANAGED BY : TEAM BOTS"
+    },
+    "useV2Account": false,
+    "warnMsg": "WARNING !!!",
+    "whitelist": false
+}

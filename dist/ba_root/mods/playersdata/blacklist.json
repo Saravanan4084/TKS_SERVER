@@ -1,0 +1,266 @@
+{
+    "ban": {
+        "ids": {
+            "pb-234": {
+                "till": "2023-06-07 21:59:20",
+                "reason": "auto ban for spam"
+            },
+            "pb-IF4BUBlSAg==": {
+                "till": "2028-05-23 06:12:28",
+                "reason": "by chat command"
+            },
+            "pb-IF4RUXMsNw==": {
+                "till": "2025-09-16 13:36:11",
+                "reason": "by chat command"
+            },
+            "pb-IF5SUUYFJA==": {
+                "till": "2025-09-18 06:47:53",
+                "reason": "by chat command"
+            },
+            "pb-IF4BK046": {
+                "till": "2028-06-13 19:01:52",
+                "reason": "manually from website"
+            },
+            "pb-IF4qV1EfUQ==": {
+                "till": "2028-06-28 08:06:03",
+                "reason": "manually from website"
+            },
+            "pb-IF4KEFcA": {
+                "till": "2053-02-17 08:06:25",
+                "reason": "manually from website"
+            },
+            "pb-IF4iXhQuIg==": {
+                "till": "2026-02-07 09:25:56",
+                "reason": "by chat command"
+            },
+            "pb-IF5UXhYyJA==": {
+                "till": "2053-03-17 10:29:59",
+                "reason": "by chat command"
+            },
+            "pb-IF4QURdTBA==": {
+                "till": "2026-02-07 16:10:12",
+                "reason": "by chat command"
+            },
+            "pb-IF5dUUs5Dg==": {
+                "till": "2321-07-21 15:30:42",
+                "reason": "manually from website"
+            },
+            "pb-IF4BUVg4IA==": {
+                "till": "2025-11-02 21:55:52",
+                "reason": "by chat command"
+            },
+            "pb-IF4RURkvIA==": {
+                "till": "2025-11-05 16:11:40",
+                "reason": "by chat command"
+            },
+            "pb-IF4sUE8iFQ==": {
+                "till": "2025-11-13 14:34:04",
+                "reason": "by chat command"
+            },
+            "pb-IF5RXhM8IA==": {
+                "till": "2025-11-07 23:24:15",
+                "reason": "by chat command"
+            }
+        },
+        "ips": {
+            "19.168.0.0.1": {
+                "till": "2023-06-07 21:59:20",
+                "reason": "auto ban for spam"
+            },
+            "e~vb~i~v`~}i`": {
+                "till": "2028-05-23 06:12:28",
+                "reason": "linked with account pb-IF4BUBlSAg=="
+            },
+            "b}k~}kca`bajez": {
+                "till": "2025-09-16 13:36:11",
+                "reason": "linked with account pb-IF4RUXMsNw=="
+            },
+            "axi~xn~wn~{h": {
+                "till": "2025-09-18 06:47:53",
+                "reason": "linked with account pb-IF5SUUYFJA=="
+            },
+            "a\u007fl~}`~~mianf": {
+                "till": "2025-12-26 18:54:12",
+                "reason": "linked with account pb-IF4qUxgGXQ=="
+            },
+            "a~m~vo~}laaji": {
+                "till": "2028-06-13 19:01:52",
+                "reason": "linked with account pb-IF4BK046"
+            },
+            "azo~{a~}j`aigw": {
+                "till": "2025-09-19 04:45:05",
+                "reason": "linked with account pb-IF4zUkwpAg=="
+            },
+            "b}k~~`bajc~vazo": {
+                "till": "2028-06-28 08:06:03",
+                "reason": "linked with account pb-IF4qV1EfUQ=="
+            },
+            "azo~zi~xh~}j`": {
+                "till": "2053-02-17 08:06:25",
+                "reason": "linked with account pb-IF4KEFcA"
+            },
+            "awh~}maaiezvbzm": {
+                "till": "2026-02-07 09:25:56",
+                "reason": "linked with account pb-IF4iXhQuIg=="
+            },
+            "bxvf\u007fvavi~z`": {
+                "till": "2053-03-17 10:29:59",
+                "reason": "linked with account pb-IF5UXhYyJA=="
+            },
+            "a~h~}keaifyva~h": {
+                "till": "2026-02-07 16:10:12",
+                "reason": "linked with account pb-IF4QURdTBA=="
+            },
+            "a}j~~oiajb}va~a": {
+                "till": "2321-07-21 15:30:42",
+                "reason": "linked with account pb-IF5dUUs5Dg=="
+            },
+            "dvva{l~vvawj": {
+                "till": "2025-11-02 21:55:52",
+                "reason": "linked with account pb-IF4BUVg4IA=="
+            },
+            "i{vdyvb|o~}ja": {
+                "till": "2025-11-05 16:11:40",
+                "reason": "linked with account pb-IF4RURkvIA=="
+            },
+            "d}va\u007fl~~jiaid~": {
+                "till": "2025-11-13 14:34:04",
+                "reason": "linked with account pb-IF4sUE8iFQ=="
+            },
+            "a~k~~`haibvvhx": {
+                "till": "2025-11-07 23:24:15",
+                "reason": "linked with account pb-IF5RXhM8IA=="
+            }
+        },
+        "deviceids": {
+            "sdfdsfwr3": {
+                "till": "2023-06-07 21:59:20",
+                "reason": "auto ban for spam"
+            },
+            "d5979c4fcae42b6a8ce6d3e24eca044b88063d0b": {
+                "till": "2028-05-23 06:12:28",
+                "reason": "linked with account pb-IF4BUBlSAg=="
+            },
+            "1791f8574cbdb7a27ddd57a7d6eaf099b123aae2": {
+                "till": "2025-09-16 13:36:11",
+                "reason": "linked with account pb-IF4RUXMsNw=="
+            },
+            "f545191a521e4879c50c1937bfbea3ad1120797d": {
+                "till": "2025-09-18 06:47:53",
+                "reason": "linked with account pb-IF5SUUYFJA=="
+            },
+            "959cc615451643224dcc0f4d1aa75cef00f56927": {
+                "till": "2028-06-13 19:01:52",
+                "reason": "linked with account pb-IF4BK046"
+            },
+            "3622156d441091ac6604dc9e2436497e9fd30ee6": {
+                "till": "2028-06-28 08:06:03",
+                "reason": "linked with account pb-IF4qV1EfUQ=="
+            },
+            "2a4cdacac2bf91247bc9b3a6a055f6a7875f8136": {
+                "till": "2053-02-17 08:06:25",
+                "reason": "linked with account pb-IF4KEFcA"
+            },
+            "5e21b0589737feea5e1dd3660f3c01f99fdb8a59": {
+                "till": "2026-02-07 09:25:56",
+                "reason": "linked with account pb-IF4iXhQuIg=="
+            },
+            "850142e6ad3e53a0623724d88e1f75a16cd4059f": {
+                "till": "2053-03-17 10:29:59",
+                "reason": "linked with account pb-IF5UXhYyJA=="
+            },
+            "10a52128800e97875ff4424f41376f1c7208034e": {
+                "till": "2026-02-07 16:10:12",
+                "reason": "linked with account pb-IF4QURdTBA=="
+            },
+            "d8f8f01591b93e978f8e599fb14f6d00afcc86aa": {
+                "till": "2321-07-21 15:30:42",
+                "reason": "linked with account pb-IF5dUUs5Dg=="
+            },
+            "6c94a690b6a7ffdbdd15ee08eb0ca70bc19e23fb": {
+                "till": "2025-11-02 21:55:52",
+                "reason": "linked with account pb-IF4BUVg4IA=="
+            },
+            "9ffae1948655ebf1df9a8d36e4d48672c6eb2a58": {
+                "till": "2025-11-05 16:11:40",
+                "reason": "linked with account pb-IF4RURkvIA=="
+            },
+            "5a76a985e5c642f8e8035f0e5219e50a6339777e": {
+                "till": "2025-11-13 14:34:04",
+                "reason": "linked with account pb-IF4sUE8iFQ=="
+            },
+            "3acc353e289e3e49f80fd6bb953a34cd863e8e69": {
+                "till": "2025-11-07 23:24:15",
+                "reason": "linked with account pb-IF5RXhM8IA=="
+            }
+        }
+    },
+    "muted-ids": {
+        "pb-IF4iU0QaEw==": {
+            "till": "2023-06-19 19:44:47",
+            "reason": "manually from website"
+        },
+        "pb-IF4WUBUYPw==": {
+            "till": "2025-08-22 11:36:51",
+            "reason": "muted by chat command"
+        },
+        "pb-IF4VUXciHA==": {
+            "till": "2028-06-01 17:19:42",
+            "reason": "manually from website"
+        },
+        "pb-IF4AUVINMQ==": {
+            "till": "2028-06-05 12:58:10",
+            "reason": "muted by chat command"
+        },
+        "pb-JiNJARBcV0FFWFxGEUZVXFVDEEhYR1FD": {
+            "till": "2025-09-11 01:35:38",
+            "reason": "muted by chat command"
+        },
+        "pb-IF4DUU8FHQ==": {
+            "till": "2025-09-11 03:25:38",
+            "reason": "muted by chat command"
+        },
+        "pb-IF5QVBAaFw==": {
+            "till": "2025-09-12 23:01:20",
+            "reason": "muted by chat command"
+        },
+        "pb-IF4qV1EfUQ==": {
+            "till": "2053-02-17 08:05:44",
+            "reason": "manually from website"
+        },
+        "pb-IF4KEFcA": {
+            "till": "2053-02-17 08:06:29",
+            "reason": "manually from website"
+        },
+        "pb-IF4mXhIFPQ==": {
+            "till": "2025-11-04 22:26:49",
+            "reason": "muted by chat command"
+        },
+        "pb-IF5UVBERAg==": {
+            "till": "2025-11-09 15:38:52",
+            "reason": "muted by chat command"
+        },
+        "pb-IF40UGQxMQ==": {
+            "till": "2025-11-15 13:25:30",
+            "reason": "muted by chat command"
+        }
+    },
+    "kick-vote-disabled": {
+        "pb-JiNJARBaXEFBVF9HFkNXXF1EF0ZaRlZE": {
+            "till": "2023-06-12 19:37:48",
+            "reason": "manually from website"
+        },
+        "pb-IF4qV1EfUQ==": {
+            "till": "2028-06-28 08:05:53",
+            "reason": "manually from website"
+        },
+        "pb-IF4KEFcA": {
+            "till": "2028-06-28 08:06:34",
+            "reason": "manually from website"
+        },
+        "pb-IF4VUWwOEw==": {
+            "till": "2026-02-09 06:03:59",
+            "reason": "manually from website"
+        }
+    }
+}
