@@ -36,7 +36,7 @@
     },
     "autoTeamBalance": true,
     "ballistica_web": {
-        "enable": false,
+        "enable": true,
         "server_password": "YOUR-PASSWORD"
     },
     "character_chooser": {
